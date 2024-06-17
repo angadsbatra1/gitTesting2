@@ -1,2 +1,1 @@
-print(Hello World)
-# error to be fixed
+print("Fixed!")
